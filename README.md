@@ -22,15 +22,25 @@ The goal is to investigate whether adding an attention mechanism to a BiLSTM mod
 BiLSTM with mean pooling.
 
 Text
+
 ↓
+
 Embedding
+
 ↓
+
 BiLSTM
+
 ↓
+
 Mean Pooling
+
 ↓
+
 Linear
+
 ↓
+
 Prediction
 
 ### Attention Model
@@ -38,15 +48,25 @@ Prediction
 BiLSTM with additive attention.
 
 Text
+
 ↓
+
 Embedding
+
 ↓
+
 BiLSTM
+
 ↓
+
 Attention
+
 ↓
+
 Weighted Sum
+
 ↓
+
 Classifier
 
 
